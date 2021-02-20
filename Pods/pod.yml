@@ -1,4 +1,4 @@
-# Simple Kubernetes Pod to deploy the app contained in nigelpoulton/getting-started-k8s:1.0
+# Simple Kubernetes Pod to deploy the app contained in vanabharathiraja/getting-started-k8s:1.0
 apiVersion: v1
 kind: Pod
 metadata:
